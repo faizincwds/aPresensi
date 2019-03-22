@@ -1,0 +1,119 @@
+
+body{
+	background-image:url('../img/bg.gif');
+	margin: 0;
+    padding: 0;
+    border: 0;
+	font-family:Arial;
+	}
+a{ text-decoration: none; }
+ul,li{list-style:none;}
+
+.kotak{margin-bottom: 20px;}
+.list-group{
+	background: #6b2203;
+    color: #fff;
+    border-top: 5px solid #9a3409;
+	}
+.list-group-item{    
+	padding-top: 10px;
+    min-width: 96px;
+    background: #712403;
+    color: #fff;
+	border:none;
+	}
+.list-group-item a:hover, .list-group-item a:focus{color:#0b0a63;}
+#warna1:hover, #warna1:focus{background:#0d240e;}
+
+.kepala{ font-family: cursive; text-align:center; font-size:22pt;}
+.warna-1{    
+	background: #fff;
+    color: 111;
+    border-bottom: 10px solid #9a3409;
+    border-top: 10px solid #9a3409;
+	}
+.warna-2{    
+	background: rgba(23, 8, 3, 0.23);
+    color: 111;
+    border-bottom: 10px solid #9a3409;
+    border-top: 10px solid #9a3409;
+	}
+#warna1{background: #025750; color: #fff; border:none; font-family: cursive;margin-bottom:10px; text-align: center; font-size:12pt;}
+#warna2{background: #449a46; color: #fff; font-family: cursive; margin-top:10px; margin-bottom:10px; text-align: center; font-size:14pt;}
+#id-kelas{color:#fff; font-size:20pt; text-align: center; font-family: cursive;}
+
+
+.bulan{background:#9a3409; color:#fff; font-size:16pt; font-family: cursive; text-align: center;border-top-left-radius: 5px; border-top-right-radius: 5px; padding-top:5px; margin-top: 5px;}
+	
+
+.wrapper {
+    margin:0 auto;
+}
+
+.body {
+    margin:0 auto;
+	max-width:98%;
+}
+
+.head{
+    border-bottom: 10px solid rgb(154, 52, 9);
+    background-color: rgba(171, 56, 6, 0.5);
+    height: 80px;
+	}
+
+.teken {
+	float:right;
+	cursor:pointer;
+	background-color:#ffffb3;
+	border-radius: 5px;
+	height:3em;
+	margin: 2%;
+	padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;	
+	}
+
+.logo-i{
+	text-align:center;
+	color: #fff;
+    font-family: cursive;
+	}
+	
+.logo-header{ 
+	padding-left:1em;
+	}
+
+.logo-header img{
+	padding-top: 0.5em;
+	max-height:4.5em;
+	margin:0;
+	float: left;
+		}
+		
+.font { 
+		color:#fff;
+		padding-left: 5pt;
+		padding-top: 15px;
+		float: left;
+		font-family: Times New Roman;
+		}
+
+
+
+.footer {
+	margin:0;
+	font-size:1em;
+	padding: 10px;
+	text-align:center;
+	text-transform: capitalize;
+	color:#fff;
+	font-family:arial;
+	border-top: 10px solid rgb(154, 52, 9);
+    background-color: rgba(171, 56, 6, 0.5);
+	}
+
+#footer{  
+	float:right;
+	margin-top:2%;
+	padding-right:3%;
+	}

@@ -1,0 +1,26 @@
+.judul-menu {
+	border: 3px solid #733211;
+    padding: 5px 10px 5px 10px;
+    width: 100%;
+    margin: 10 auto;
+    font-size: 20pt;
+    border-radius: 10px;
+}
+
+.judul-menu a{text-decoration:none; color:#fff;}
+
+.menutama{margin:0 auto; max-width:315px; font-family: cursive;}
+.menutama img{ width:80px; outline-style: none; height:80px; padding:10px; border:3px solid #733211; border-radius:10px;}
+.menutama li a{font-size:9pt; color:#fff; margin-left:20px; text-decoration:none;}
+
+.menu{ 
+	padding:5px; 
+	text-align:center;
+	float:left;
+	margin:10px auto;
+	padding-left:5px;
+	width:100px;
+	}
+
+.menutama img:focus,.menutama img:hover{background:#733211;}
+	
