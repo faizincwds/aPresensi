@@ -1,4 +1,4 @@
-var server = "http://wongoding.com/absensionline/";
+var server = "https://stit-tunasbangsa.ac.id/absensionline/";
 $('document').ready(function(){
 	var nama = localStorage.getItem('namasiswa');
 	var kelas = localStorage.getItem('kelasiswa');
