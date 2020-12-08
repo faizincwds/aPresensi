@@ -1,4 +1,4 @@
-var server = "https://stit-tunasbangsa.ac.id/absensionline/";
+var server = "http://stit-tunasbangsa.ac.id/absensionline/";
 $('document').ready(function(){
 	var kelas = localStorage.getItem('kelasiswa');
 	$("#id-kelas").html(kelas);
